@@ -2,7 +2,7 @@
 
 #### This is a Template for a web environment
 
-#### By Rosie Gardner
+#### By Marcus Ferreira
 
 ## Technologies Used
 
@@ -27,8 +27,8 @@
 
 MIT
 
-Copyright (c) 2022 Rosie Gardner
+Copyright (c) 2022 Marcus Ferreira
 
 ## Contact Information
 
-* Email: rosiegardner78@gmail.com
+* Email: marcusferreira23@gmail.com
