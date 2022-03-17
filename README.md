@@ -2,7 +2,7 @@
 
 #### This is a Template for a web environment
 
-#### By Marcus Ferreira
+#### 
 
 ## Technologies Used
 
@@ -27,8 +27,6 @@
 
 MIT
 
-Copyright (c) 2022 Marcus Ferreira
+Copyright (c) 2022 
 
-## Contact Information
 
-* Email: marcusferreira23@gmail.com
